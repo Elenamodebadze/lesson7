@@ -48,3 +48,17 @@
     justify-content: center;
     border-radius: 5cm;
 }
+.first-h2 {
+    margin-left: 890px;
+    font-size: 20px;
+    color: #3D37F1;
+}
+.second-h2 {
+    margin-left: 671px;
+    font-size: 40px;
+}
+.paragraph1 {
+    margin-left: 611px;
+    margin-right: 597px;
+    font-size: 18px;
+}
