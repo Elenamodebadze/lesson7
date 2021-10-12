@@ -151,7 +151,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-} 
+    background-color: cornsilk;} 
 .box-text {
     width: 300px;
     height: 62px;
@@ -162,8 +162,11 @@
     margin-top: 57px;
     font-size: 22px;}
 .readmore-block :hover {
-    background-color: #FFFFFF;
-    font-size: 20px;}
+    background-color: cadetblue;
+    font-size: 20px; }
 .small-div:hover .image-hover {
     transform: rotate(10deg);
+}
+.wraper-logo:hover {
+    color: crimson;
 }
