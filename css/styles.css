@@ -1,0 +1,50 @@
+.div-wraper {
+    display: flex;
+}
+.box {
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+}
+.box1 {
+    width: 370px;
+    height: 451px;
+    background-color: #41EAE3;
+}
+.box2 {
+    width: 370px;
+    height: 451px;
+    background-color: #69529F;
+}
+.box3 {
+    width: 370px;
+    height: 451px;
+    background-color: #4386D2;
+}
+.box4 {
+    width: 370px;
+    height: 451px;
+    background-color: #A5A2F6;
+}
+.box5 {
+    width: 370px;
+    height: 451px;
+    background-color: #FF8088;
+}
+.div-wraper1 {
+
+    display: flex;
+    
+}
+.nav-wraper {
+    display: flex;
+}
+.small-div {
+    width: 263.67px;
+    height: 76.77px;
+    background-color: #3D37F1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5cm;
+}
