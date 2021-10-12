@@ -7,7 +7,8 @@
     justify-content: center;
     align-items: center;
     justify-content: space-around;
-    position: fixed;}
+    position: fixed;
+    background-color: #fff9e6;}
 .wraper-logo {
     width: 195px;
     height: 39px;
